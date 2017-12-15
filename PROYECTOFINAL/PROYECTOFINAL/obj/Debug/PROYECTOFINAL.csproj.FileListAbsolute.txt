@@ -1,0 +1,7 @@
+C:\Users\ltusen\source\repos\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\PROYECTOFINAL.csproj.CoreCompileInputs.cache
+C:\Users\ltusen\source\repos\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\PROYECTOFINAL.exe.config
+C:\Users\ltusen\source\repos\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\PROYECTOFINAL.exe
+C:\Users\ltusen\source\repos\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\PROYECTOFINAL.pdb
+C:\Users\ltusen\source\repos\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\PROYECTOFINAL.exe
+C:\Users\ltusen\source\repos\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\PROYECTOFINAL.pdb
+C:\Users\ltusen\source\repos\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\PROYECTOFINAL.csprojResolveAssemblyReference.cache
